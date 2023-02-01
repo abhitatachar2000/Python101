@@ -9,7 +9,7 @@ PS: I have devided the repository into different sections. Each section covers s
 
 Happy coding!
 
-## Numbers and Arithmetic
+### Numbers and Arithmetic
 1. Build a calculator that can handle the four basic arithmetic operations (addition, subtraction, multiplication, and division) It should take two numbers and an operator as input, perform the calculation, and return the result.
 
 
