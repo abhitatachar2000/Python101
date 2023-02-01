@@ -11,5 +11,6 @@ Happy coding!
 
 ### Topic 1: Numbers and Arithmetic
 1. Build a calculator that can handle the four basic arithmetic operations (addition, subtraction, multiplication, and division) It should take two numbers and an operator as input, perform the calculation, and return the result.
+2. Write a program that takes an integer input from the user and determines if it is a prime number or not. The program should print 'Prime' if the number is prime, and 'Not Prime' if the number is not prime.
 
 
