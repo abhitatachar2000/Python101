@@ -5,6 +5,11 @@ Here you'll find a collection of Python examples that cover a wide range of comm
 
 To get started, clone or download the repository and run the examples on your local machine. You can also use the examples as a starting point for your own projects.
 
+PS: I have devided the repository into different sections. Each section covers specific concept like strings, lists, tuples and so on.
+
 Happy coding!
 
-Note: The examples in this repository are intended for educational and reference purposes only. They may not be suitable for production use.
+## Numbers and Arithmetic
+1. Build a calculator that can handle the four basic arithmetic operations (addition, subtraction, multiplication, and division) It should take two numbers and an operator as input, perform the calculation, and return the result.
+
+
