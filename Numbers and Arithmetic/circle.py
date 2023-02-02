@@ -8,12 +8,12 @@ import math
 def findArea(radius):
     pi = math.pi
     area = pi*math.pow(radius,2)
-    return area
+    return round(area, 2)
 
 def findCircumference(radius):
     pi = math.pi
     circumference = 2*pi*radius
-    return circumference
+    return round(circumference, 2)
 
 radius = float(input("Enter the radius in cms: "))
 print("Area of the circle = "+str(findArea(radius))+ "cm^2")
