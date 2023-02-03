@@ -27,7 +27,9 @@
 1. Write a program that takes a string as input from the user, and returns the number of times a given substring appears in the string."
 2. Write a program that takes a string as input from the user, and returns a new string with all the words in reverse order.
 3. Write a program that takes a string as input from the user, and returns a new string with all letters capitalized.
-4. 
+4. Write a program that takes a string as input from the user, and returns the number of words in the string.
+5. Write a program that takes a string as input from the user, and returns a new string with all spaces removed.
+
 
 
 
