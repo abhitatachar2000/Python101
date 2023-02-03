@@ -9,7 +9,7 @@ PS: I have devided the repository into different sections. Each section covers s
 
 Happy coding!
 
-#### Topic 1: Numbers and Arithmetic
-#### Topic 2: Strings
+- Topic 1: Numbers and Arithmetic
+- Topic 2: Strings
 
 
