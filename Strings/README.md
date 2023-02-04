@@ -17,9 +17,8 @@
 16. Write a program that takes a string as input from the user, and converts it to a list of integers representing the ASCII values of each character.
 17. Write a program that takes a string as input from the user, and generates a new string by shifting each character in the string by a given number of positions.
 18. Write a program that takes a string as input from the user, and checks if it is a valid IPv4 address.
-19. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given word replaced by asterisks.
-20. Write a program that takes a string as input from the user, and returns the first non-repeated character in the string.
-21. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given character replaced by its opposite case.
+19. Write a program that takes a string as input from the user, and returns the first non-repeated character in the string.
+20. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given character replaced by its opposite case.
 
 ## Additinal practice programs 
 #### (Solution is not included for this, but you can find similar programs above.)
@@ -28,6 +27,7 @@
 3. Write a program that takes a string as input from the user, and returns a new string with all letters capitalized.
 4. Write a program that takes a string as input from the user, and returns the number of words in the string.
 5. Write a program that takes a string as input from the user, and returns a new string with all spaces removed.
+6. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given word replaced by asterisks.
 
 
 
