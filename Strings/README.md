@@ -14,13 +14,12 @@
 13. Write a program that takes a string as input from the user, and generates a dictionary where each key is a letter in the string, and each value is the number of times that letter appears in the string, ignoring case.
 14. Write a program that takes a string as input from the user, and replaces all instances of a given word with a different word, ignoring case.
 15. Write a program that takes a string as input from the user, and generates a new string by rearranging its characters in alphabetical order.
-16. Write a program that takes a string as input from the user, and removes all instances of a given substring from the string.
-17. Write a program that takes a string as input from the user, and converts it to a list of integers representing the ASCII values of each character.
-18. Write a program that takes a string as input from the user, and generates a new string by shifting each character in the string by a given number of positions.
-19. Write a program that takes a string as input from the user, and checks if it is a valid IPv4 address.
-20. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given word replaced by asterisks.
-21. Write a program that takes a string as input from the user, and returns the first non-repeated character in the string.
-22. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given character replaced by its opposite case.
+16. Write a program that takes a string as input from the user, and converts it to a list of integers representing the ASCII values of each character.
+17. Write a program that takes a string as input from the user, and generates a new string by shifting each character in the string by a given number of positions.
+18. Write a program that takes a string as input from the user, and checks if it is a valid IPv4 address.
+19. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given word replaced by asterisks.
+20. Write a program that takes a string as input from the user, and returns the first non-repeated character in the string.
+21. Write a program that takes a string as input from the user, and returns a new string with all occurrences of a given character replaced by its opposite case.
 
 ## Additinal practice programs 
 #### (Solution is not included for this, but you can find similar programs above.)
