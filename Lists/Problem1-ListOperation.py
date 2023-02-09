@@ -20,7 +20,7 @@ def findAverage(aList):
     return average
 
 def findMinimumItem(aList):
-    minimumItem = aList[1]
+    minimumItem = aList[0]
     for i in aList:
         if i < minimumItem:
             minimumItem = i
@@ -29,7 +29,7 @@ def findMinimumItem(aList):
     return minimumItem
 
 def findMaximumItem(aList):
-    maximumItem = aList[1]
+    maximumItem = aList[0]
     for i in aList:
         if i > maximumItem:
             maximumItem = i
