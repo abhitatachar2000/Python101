@@ -11,6 +11,6 @@ Happy coding!
 
 ## Index:
 - [Topic 1: Numbers and Arithmetic](https://github.com/abhitatachar2000/Python101/tree/main/Topic%201%20-%20Numbers%20and%20Arithmetic)
-- [Topic 2: Strings](https://github.com/abhitatachar2000/Python101/tree/main/Strings)
+- [Topic 2: Strings](https://github.com/abhitatachar2000/Python101/tree/main/Topic%202%20-%20Strings)
 - [Topic 3: Lists](https://github.com/abhitatachar2000/Python101/tree/main/Lists)
 - [Topic 4: Dictionaries](https://github.com/abhitatachar2000/Python101/tree/main/Topic%204%20-%20Dictionary)
