@@ -14,3 +14,4 @@ Happy coding!
 - [Topic 2: Strings](https://github.com/abhitatachar2000/Python101/tree/main/Topic%202%20-%20Strings)
 - [Topic 3: Lists](https://github.com/abhitatachar2000/Python101/tree/main/Topic%203%20-%20Lists)
 - [Topic 4: Dictionaries](https://github.com/abhitatachar2000/Python101/tree/main/Topic%204%20-%20Dictionary)
+- [Topic 5: Functions and Callbacks](https://github.com/abhitatachar2000/Python101/tree/main/Topic%205%20-%20Functions%20and%20Callbacks)
